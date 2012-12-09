@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Notepad</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">退出</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="titil_editActivity">editActivity</string>
+    <string name="edit_menu_save">保存</string>
+    <string name="edit_menu_abandon">删除</string>
+
+</resources>

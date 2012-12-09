@@ -1,0 +1,18 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <Button 
+        android:id="@+id/newnote"
+        android:textSize="25dp"
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:text="新建一条笔记"/>
+    <ListView 
+        android:id="@+id/noteList"
+        android:layout_below="@id/newnote"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+    </ListView>
+</RelativeLayout>
